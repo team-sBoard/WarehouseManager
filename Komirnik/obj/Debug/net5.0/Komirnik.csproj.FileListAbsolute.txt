@@ -1,0 +1,16 @@
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\bin\Debug\net5.0\Komirnik.exe
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\bin\Debug\net5.0\Komirnik.deps.json
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\bin\Debug\net5.0\Komirnik.runtimeconfig.json
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\bin\Debug\net5.0\Komirnik.runtimeconfig.dev.json
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\bin\Debug\net5.0\Komirnik.dll
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\bin\Debug\net5.0\ref\Komirnik.dll
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\bin\Debug\net5.0\Komirnik.pdb
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\Komirnik.csprojAssemblyReference.cache
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\Komirnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\Komirnik.AssemblyInfoInputs.cache
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\Komirnik.AssemblyInfo.cs
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\Komirnik.csproj.CoreCompileInputs.cache
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\Komirnik.dll
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\ref\Komirnik.dll
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\Komirnik.pdb
+D:\Nexus\road_to_it\projects\Komirnik\Komirnik\Komirnik\obj\Debug\net5.0\Komirnik.genruntimeconfig.cache
