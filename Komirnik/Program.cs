@@ -6,7 +6,20 @@ namespace Komirnik
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Authorization();
+        }
+
+        public static void Authorization()
+        {
+            Console.WriteLine("Login: ");
+            string login = Console.ReadLine();
+            Console.WriteLine("Password: ");
+            string password = Console.ReadLine();
+
+            if (login != "admin" && password != "123")
+            {
+                
+            }
         }
     }
 }
